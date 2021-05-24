@@ -1,0 +1,19 @@
+{
+  "name": "complexity2",
+  "version": "1.0.0",
+  "description": "complexity calculate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "123"
+  },
+  "keywords": [
+    "complex",
+    "complexity"
+  ],
+  "author": "tomgou",
+  "license": "ISC"
+}
