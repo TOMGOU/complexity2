@@ -1,6 +1,6 @@
 {
   "name": "complexity2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "complexity calculate",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "123"
+    "url": "https://github.com/TOMGOU/complexity2.git"
   },
   "keywords": [
     "complex",
